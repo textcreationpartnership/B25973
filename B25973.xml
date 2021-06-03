@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Life of H.H. with the relation at large of what passed betwixt him and the taylors wife in Black-friars, according to the original : likewise particular remarks of his behaviour ever since, which proves (tho times change) him to be the same H.H. still.</title>
+         </titleStmt>
+         <extent>Approx. 95KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25973</idno><idno type="EEBO-CITATION">11749218</idno>
+  <idno type="VID">199117</idno>
+  <idno type="EEBO-PROQUEST">2240874029</idno>
+  
+            <idno type="STC">Wing L2029A</idno>
+            <idno type="OCLC">11749218</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199117)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:46c)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Life of H.H. with the relation at large of what passed betwixt him and the taylors wife in Black-friars, according to the original : likewise particular remarks of his behaviour ever since, which proves (tho times change) him to be the same H.H. still.</title>
+                  <author>Hills, Henry, d. 1689?</author>
+               </titleStmt>
+               <extent>[18], 54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: The prodigal returned to his Father's house.</note>
+                  <note>"To the reader" signed: William Kiffen.</note>
+                  <note>"A premonition to the reader from the hand of a friend" (p. [5]) dated and signed: July 15, 1672. Daniel King.</note>
+                  <note>Dedicatory epistle (p. [11]) signed and dated: Henry Hills ... Jan. 28, 1650.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199117:1"/>
+            <pb facs="tcp:199117:1"/>
+            <p>THE LIFE OF H. H.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th the Relation at large of what passed betwixt him and the Taylors Wife in <hi>Black-friars,</hi> according to the Original.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> likewise particular Remarks of his Behaviour ever since. Which proves (tho times change) him to be the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame <hi>H. H.</hi> still.</p>
+            <p>
+               <hi>LONDON,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nted for <hi>T. S.</hi> in the Year 1688.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:199117:2"/>
+            <pb facs="tcp:199117:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>HEre is presented to thy view a description of the <hi>hearts</hi> great <hi>Apostasie</hi> and <hi>deceitfulness;</hi> to<g ref="char:EOLhyphen"/>gether <hi>with the discoveries of Gods</hi> great <hi>grace</hi> and goodness to a soul exceedingly declined and <hi>Apostatized</hi> from him: wherein God hath indeed made good what himself, <hi>Rom.</hi> 5.20, 21. <hi>But sin abounded, grace did much more a<g ref="char:EOLhyphen"/>bound; that as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life,</hi> &amp;c. And that his actings are not as the proceed<g ref="char:EOLhyphen"/>ings of men, <hi>Jer.</hi> 3.1, 2. <hi>They say, if a man put away his VVife, and she go from him, and become another mans, shall he return to her again? shall not that Land be polluted? But thou hast played the Harlot with many Lovers, yet return a<g ref="char:EOLhyphen"/>gain to me, saith the Lord,</hi> &amp;c.</p>
+            <p>Satan in these last Ages of the World, hath had several <hi>forms</hi> and
+<pb facs="tcp:199117:3"/>
+               <hi>dresses</hi> whereby he might deceive <hi>un<g ref="char:EOLhyphen"/>stable souls:</hi> nay, <hi>if it were possible the very elect.</hi>
+            </p>
+            <p>I have with much grief of heart been an observer of the Authors <hi>Apos<g ref="char:EOLhyphen"/>tacy</hi> from God and his ways, and well know the grounds thereof to be what he hath herein expressed, and much rejoyce at his return: hoping it is rea<g ref="char:EOLhyphen"/>lity and truth: and that the end of his publishing this to the World, is to own his own shame, and caution o<g ref="char:EOLhyphen"/>thers, that they be not such as wax wanton against Christ, and his pure (though despised) ways: Which if it shall be matter of warning to any, the Author hath his end, and it shall be my request to the Lord, for all that profess his fear, that they may <hi>watch unto Prayer, being stedfast, unmoveable, yet always abounding in the work of the Lord.</hi>
+            </p>
+            <closer>
+               <signed>William Kiffen.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:199117:3"/>
+            <head>A Premonition to the Reader from the hand of a Friend.</head>
+            <p>REader, whosoever thou art that mayest light upon this <hi>Prodi<g ref="char:EOLhyphen"/>gals Confession,</hi> who (through the goodness of God) is now come to him<g ref="char:EOLhyphen"/>self; <hi>was dead,</hi> and is alive again, was lost, and is found; who went out full and came in hungry; As thou art intreated to take notice (from what the Scripture speaketh) what the fruit of sin is, so al<g ref="char:EOLhyphen"/>so believe the experience of those that have felt it biting like a <hi>Serpent,</hi> and stinging like an <hi>Adder.</hi> If thou beest one that hast <hi>turned the grace of God into wanton<g ref="char:EOLhyphen"/>ness,</hi> and givest thy self over to <hi>lascivious<g ref="char:EOLhyphen"/>ness,</hi> as this poor man hath done: It is a miracle if mercy if ever God bring thee back to his house, to seek bread there, as he hath done this stragling <hi>Prodigal. Sweet meat must have sour Sawce,</hi> I think he hath experienced it; and blessed be
+<pb facs="tcp:199117:4"/> God that his Servants meet with <hi>sauce,</hi> when <hi>sin</hi> is the <hi>dish</hi> that they would be feeding upon, or rather poysoning them<g ref="char:EOLhyphen"/>selves withal. I beseech thee take heed, <hi>think on sobriety,</hi> run not out after vain <hi>speculations and notions,</hi> as this (re<g ref="char:EOLhyphen"/>turning wanderer hath done, to his cost. Thou that rejectest the Scriptures, and wilt seem to plead all experience; Consider, it is good to try experiences by Scripture-testimony: but I pray thee let the expe<g ref="char:EOLhyphen"/>rience of this returning out-cast be noted by thee; and be sure the rod wherewith he hath been whipped, and a more sharp one too, shall light upon thee, if thou account vice vertue, and wickedness thy liberty, as he hath done. Now his heart is burdened, and his life is full of troubles. But let me tell thee, <hi>there is more joy in Heaven over one sinner that repenteth, than over 99</hi> such as thou art, that art <hi>pure in thy own eyes,</hi> and thinkest thou needest no repentance. Thou that lovest not Scrip<g ref="char:EOLhyphen"/>ture wholsome expression, but only such as are dished out with new notions; lo here is a new experimental exposition of the Scrip<g ref="char:EOLhyphen"/>ture he speaketh to, and I hope really from his heart; would thou wouldst consi<g ref="char:EOLhyphen"/>der it.</p>
+            <pb facs="tcp:199117:4"/>
+            <p>And you (dear Saints) that have seen this man in our Fathers house, and whose hearts are grieved, that for such miscarriage (as he was guilty of) he must needs be turned out and saw his going out with sor<g ref="char:EOLhyphen"/>row: let me tell you, methinks the things that are here written, do come from some impressions of God upon his heart, and that his repentance is real. God forbid that I should excuse any one in sin, let my tongue cleave to the roof of my mouth, and my arms fall from my shoulder-blade, rather than mouth or pen should do that: but to be tender towards returning sinners, I think it is all our duties.</p>
+            <p>
+               <hi>I beseech you confirm your love to him, lest he should be swallowed up of sorrow; for you are not ignorant of Satans wiles.</hi>
+            </p>
+            <p>Two things (it may be) some will ob<g ref="char:EOLhyphen"/>ject, I shall briefly speak to them.</p>
+            <p n="1">
+               <hi>1.</hi> That he hath fallen from so much light, and sinned against so much knowledge and love, and such glorious profession, and been so stubborn in it, that it is a question whe<g ref="char:EOLhyphen"/>ther he can ever be pardoned or no.</p>
+            <p>I say it is true, he hath done so; but yet if Christ give <hi>repentance,</hi> there is no que<g ref="char:EOLhyphen"/>stion but he will give <hi>remission</hi> too, <hi>Acts 5.</hi> And to me it appeareth the one is given,
+<pb facs="tcp:199117:5"/> and why then should I question the other? Truly I think a soul must go far indeed, be<g ref="char:EOLhyphen"/>fore any man conclude he is past cure. Re<g ref="char:EOLhyphen"/>member it was once <hi>Moses</hi> fault (though zealous for God) that he <hi>di<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>paraged mercy;</hi> I think the <hi>Prodigal</hi> living in his Fathers house,<note place="margin">Rom. 6.</note> knew much of his mind, and of the order of his house, and sinned a<g ref="char:EOLhyphen"/>gainst abundance of light and love: And yet the time was not out of date to forgive him, when once he came to himself and <hi>re<g ref="char:EOLhyphen"/>turned: where sin reigned to death, there Grace reigned through Jesus Christ to eternal life. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eter</hi> went very far (you know, if the case be well considered, yet the sweet gracious looks of Christ brought him to himself again. And methinks the case of <hi>Manasses</hi> (if seriously considered) was as desperate as this man<hi>'s,</hi> and yet if I mis<g ref="char:EOLhyphen"/>take not, God gave him both repentance and pardon.</p>
+            <p>Besides consider, the <hi>Devil</hi> that was not afraid to set upon Christ, knoweth well that if he can deceive any soul that hath know<g ref="char:EOLhyphen"/>ledge and parts, such a one is like to do him the best service, when once deceived; therefore his assaults upon him might be the more violent, being such a one.</p>
+            <p>The <hi>2d.</hi> thing that may be objected is, That his <hi>repentance</hi> may be questioned
+<pb facs="tcp:199117:5"/> where it be true,<note place="margin">Job. 36.</note> because it is not <hi>volunta<g ref="char:EOLhyphen"/>ry;</hi> but imprisonment, troubles, fear of the law, <hi>&amp;c.</hi> hath extorted it from him.</p>
+            <p>I answer, I cannot conclude so, having heard him express his grief for sinning a<g ref="char:EOLhyphen"/>gainst God, whom he hath tasted so gracious; Against his Wife, when he had no cause so to wrong her. But friends,<note place="margin">Hos. 2.</note> if God will work <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n such a way, and bind him in fetters and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hains, and then open his ears to discipline, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd command him to depart from iniquity; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hall we say it is not right? Is not this some<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>imes Gods way? did not he thus bring <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ome <hi>Manasses?</hi> did he not pine out the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rodigal; when do you think in likelihood <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e would have come else? If this be Gods <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ethod, <hi>to hedge up Israels way with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>orns that she cannot find her paths, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd wall her with hewn stone till she <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oncludeth it is best to return to her first <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>usband;</hi> shall we say the work is not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ght because God went not in another way? <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>et Gods love to us teach us to be loving &amp; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aritable towards other; I for my part <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nnot but rejoyce in the return of the foul<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t sinner in the world, &amp; magnifie the love <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God when he healeth the <hi>backsliding</hi> of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y. I say no more; But the Lord establish <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ose that stand, and grant that every one of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> poor wandring <hi>sheep,</hi> may be brought
+<pb facs="tcp:199117:6"/> back to the <hi>sold,</hi> and may be willing to c<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fess and forsake their sins, as this retur<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing <hi>Prodigal</hi> hath done; And I shall, joyce at the <hi>Musick</hi> in our <hi>Fathers hou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> at the return of any poor starved <hi>Prodiga<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and remain through grace</p>
+            <closer>
+               <signed>
+                  <hi>The Servant of Chri<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and of his Saints.</hi> Daniel King.</signed>
+               <dateline>
+                  <date>July <hi>15 1672.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:199117:6"/>
+            <head>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all the Saints in General, di<g ref="char:EOLhyphen"/>stinguished by what Name or Title soever.</head>
+            <p>DEarly beloved in the Lord, 'tis for your sakes chiefly I be<g ref="char:EOLhyphen"/>came willing to discover this my folly: The which for a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g time I withstood, and prevailed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er such thoughts, saying, I had al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y made my self a laughing-stock <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d by-word among all that either <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ard or knew of me, or at least such <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th been my <hi>demeanor,</hi> or rather my <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sdemeanor, as I could expect no less; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at reason had I then to add more <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ell to such a fire?</p>
+            <p>But observing the dealings of God <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th me, and finding by sad experience, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ery thing I took in hand was dissipa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d in reference to my liberty; I made <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> strict enquiry between God and my <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n heart,<note place="margin">Psal. 66.18.</note> what iniquity 'twas I yet <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arded, that the Lord did not</hi> hear my <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ayer, in not blessing, but rather blast<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g all means I took in hand tending to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y liberty: I found it nothing less than <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y duty to acknowledge my iniquities
+<pb facs="tcp:199117:7"/> as to God, so my neighbour, to my a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>versary,<note place="margin">Mat. 5.25. 1 Tim. 55.</note>
+               <hi>before men,</hi> against whom li<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>wise I had dealt <hi>treacherously</hi> and wic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>edly.</p>
+            <p>Whereupon presently I resolved<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> acknowledge and discover to the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> most I was able,<note place="margin">Lev. 26.40</note> my iniquity whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> had committed both against God a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> man, in writing both to my Adversa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and publickly to the World, the whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> had no sooner covenanted and concl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ded within my self to do:<note place="margin">Mat. 10.32.</note> but the Lo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was pleased (and that even before I ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> began to write) to raise up a mea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (even when all my friends failed m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> even when I was <hi>without hope,</hi> and eve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> where I least expected it; whereby imediately procured a little liberty t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> follow my calling at home at my ow<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> house; without which, in the eye<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reason, both I and a family of seven pe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sons had been e're this utterly ruined.</p>
+            <p>The which I had no sooner obtaine<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but began, like the Children of <hi>Israel</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> old, <hi>to turn my back upon his great mercie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> as to send <hi>Manna</hi> from <hi>Heaven,</hi> rathe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> than I and my Family should <hi>perish,</hi> an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> grew slack and careless in my <hi>performin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> what I had <hi>promised,</hi> only a little slight<g ref="char:EOLunhyphen"/>ly once or twice spake to some friends
+<pb facs="tcp:199117:7"/> to speak with my adversary on my be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lf; and once or twice sought to be re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ncil'd to my brethren whom I had of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ded. And having one day a violent <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ghting within me, about my neglect <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d carelessness in performing what I <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d covenanted to perform, fell imme<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ately to writing for some two or three <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urs: but a day or two after, upon <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> relating to some what I was about, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ey replyed there was one about such work already; whereupon I imme<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tely diverted my thoughts another <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y, being glad I had such an oppor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ity to be silent.</p>
+            <p>But the time of my liberty being ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed, I returned to prison, expecting <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d indeed not questioning) I should <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e renewed my liberty as before. But <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s by <hi>Divine Providence</hi> frustrated <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rein; and not only so, but have been <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er since in all I have taken in hand in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er thereunto; at all which being a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>zed to behold; I called to mind my <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mer promise and intention; upon <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sideration whereof, I had that say<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> brought to my remembrance, <hi>when <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> vowest a vow unto God,</hi>
+               <note place="margin">Eccl. 5.4.</note>
+               <hi>defer not to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it;</hi> upon which crying out of the <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dness and earthliness</hi> of my base un<g ref="char:EOLhyphen"/>worthy
+<pb facs="tcp:199117:8"/>
+               <hi>heart,</hi> that no longer then t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Rod</hi> was on my back my eye was t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>wards my God; I fell to wrighting, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> writ a Letter to my Adversary, a co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whereof is annexed to this followi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Treatise.</p>
+            <p>The which hath been so far from b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing a means of obtaining my l<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>berty;<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that my Adversary hath more violent then ever before, laboured since to hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>der me thereof, so that I upon no ter<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> could procure the least liberty since.</p>
+            <p>The which severe just <hi>hand</hi> of G<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on me, caused me to make a new a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more stricter <hi>search</hi> into my heart, u<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on which I found I had as yet perfo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>med my promise but by halves; A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not hearing of any else; who for the <hi>p<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>venting</hi> of others from <hi>running</hi> of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sad <hi>race,</hi> that have taken that pains,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to discover any of the <hi>subtile Wiles Satan</hi> whereby in this our last age<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>deceives</hi> many poor Souls; and n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> knowing but that my discovering a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cording to that small ability God ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> given me, what the subtilties were<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which the Devil captivated and carr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed me into those far Countries, mig<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be a means to prevent others from ru<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ning into the like snares; and for ev<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:199117:8"/> to stand amazed, admiting the unspeak<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ble love of God towards me, where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y I was snatched, as a brand out of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ternal fire of Gods wrath and firy in<g ref="char:EOLhyphen"/>dignation.</p>
+            <p>The consideration of all which (I <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay) hath now at last prevailed with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e to present to your view this ensuing Treatise, The which though it be ra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>her like a <hi>Chaos,</hi> in respect of my laying <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>own of things so disorderly and indi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tinctly, <hi>then</hi> a world wherein every <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hing is brought forth into its right <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rder.</p>
+            <p>Let me therefore take that boldness, as to intreat you to be warned by this my sad experience; And to take the wise-mans counsel; <hi>Keep thy foot when <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hou goest to the house of God,</hi>
+               <note place="margin">Eccl. 5.1.</note>
+               <hi>and be more <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eady to hear, then t<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> offer the Sacrifice of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ools; for they consider not that they do <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>vil.</hi>
+            </p>
+            <p>Remember when you make a step to<g ref="char:EOLhyphen"/>wards Heaven,<note place="margin">Ex. 3.5. Jona. 2.8. Acts 14.15.</note> you must <hi>put off your <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hoes,</hi> you must turn your back upon all <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he vanities of this wicked world.</p>
+            <p>Have your eyes always upon your <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eet when you approach towards God,<note place="margin">Isa. 57.15. Mat. 5.5 &amp; 11.19.</note>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat (like the peacock) you may there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y be kept abased in your own self, re<g ref="char:EOLhyphen"/>membering
+<pb facs="tcp:199117:9"/> that with <hi>the humble &amp; meek God will dwell;</hi>
+               <note place="margin">Jam. 4.6.</note>
+               <hi>and that he resisteth the proud, and giveth grace to the humble.</hi>
+            </p>
+            <p>
+               <note place="margin">1 Sam. 16.7. Gal. 6.7.</note>That 'tis the heart God requires, <hi>therefore be not deceived, God will not be mocked:</hi> Do not think 'twill serve your turn to be a constant hearer of Gods word,<note place="margin">Jam. 1.23. Mat. 15.8. Mat. 7.6.</note>
+               <hi>and not a doer; to draw near him with your mouth, and to have your hearts far from him,</hi> to come to his house amongst his Saints with your bodies, and to leave your hearts at home, to have them in the mean time abroad in the World:<note place="margin">Luke 12.34.</note>
+               <hi>for where your treasure is</hi> (that which) you are <hi>most</hi> de<g ref="char:EOLhyphen"/>lighted with and in) <hi>there will your hearts he also: where the carcase is, thi<g ref="char:EOLhyphen"/>ther will the Eagles flie.</hi>
+            </p>
+            <p>
+               <note place="margin">Mat. 24.28.110.26.</note>Nay remember that you who pro<g ref="char:EOLhyphen"/>fess the name of Christ, <hi>ought even so to walk, as he before you hath left you a pattern:</hi>
+               <note place="margin">2 Pet 3.14.</note> ye should study to walk spotless and blameless in this present World therein to <hi>let your light so shine before, men,</hi>
+               <note place="margin">Mat. 5.16. Phil. 2.15.</note>
+               <hi>that they seeing your good works, may glorify your Father which is in Heaven.</hi>
+               <note place="margin">Rom. 1.10 &amp; 6.2.10.11. Gal 3.2 &amp; 5.24.</note>
+            </p>
+            <p>That the way towards Heaven is upward, and not downward, rising continually from <hi>the death</hi> of sin, dying
+<pb facs="tcp:199117:9"/> continually to sin; being daily wea<g ref="char:EOLhyphen"/>ned more and more in your affecti<g ref="char:EOLhyphen"/>ons to this present World and the vain pleasures thereof; and living dai<g ref="char:EOLhyphen"/>ly more and more towards God; your affections more and more daily in love with righteousness and holiness to<g ref="char:EOLhyphen"/>wards God and man.</p>
+            <p>And herein be not deceived, think<g ref="char:EOLhyphen"/>ing it is enough if you but grow in the knowledge of righteousness, if you be but able to speak or make a de<g ref="char:EOLhyphen"/>scription of such a condition; though your heart be as much after the World and the vain pleasures thereof,<note place="margin">Mat. 6.21.</note> as ever before; though you have no more Power over your corruption, than you had before; only you find that knowledge is a brave thing to make you appear famous amongst men; and therefore (it may be) your heart may be running out after knowledge, <hi>which</hi> before was running out only after the World, and the pleasures thereof; and this is all the change that is wrought in you, that you have left off running after the World, and the pleasures thereof; whereby to be<g ref="char:EOLhyphen"/>come great and famous amongst men, and now your hearts are run out after
+<pb facs="tcp:199117:10"/> the knowledge of the things of God, but for the same self end as before, to wit, to cloth and adorn this body with spiritual riches,<note place="margin">Luk. 12.31. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m. 5.3.</note> or rather pride, that so you might be admired and applauded amongst men.</p>
+            <p>Now since my intention in writing it is only for my performing of that which I judge nothing less then my duty. If God shall be pleased to make any thing therein a means to advance his glory, either in preventing thereby any from being entangled in these or the like snares, or in causing others to exalt God the more in their hearts, by reason of their beholding what great love he hath most freely manifested to <hi>me vile</hi> un<g ref="char:EOLhyphen"/>worthy wretch; being satisfied in my own heart, that what I have written is not a fiction or imagination of mine, but the truth of what I both by sad and joyful experience observed, and found in these my sad travels; he hath ob<g ref="char:EOLhyphen"/>tained his desire who is,</p>
+            <closer>
+               <signed>
+                  <hi>Your unworthy ser<g ref="char:EOLhyphen"/>vant in Christ,</hi> Henry Hills.</signed>
+               <dateline>From my sad (as to the outward man) and miserable yet most just Capti<g ref="char:EOLhyphen"/>vity in the <hi>Fleet,</hi>
+                  <date>
+                     <hi>Jan.</hi> 28. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:199117:10"/>
+            <head>THE PRODIGAL Returned to his Fathers House.</head>
+            <p>THE sadness of this our last Age being such,<note place="margin">Epist Jude Luke 15.</note> as that it hath brought forth many (which <hi>that</hi> the Scripture might be fulfilled must be,) who like the Prodigal <hi>have left their Fathers House.</hi>
+            </p>
+            <p>Left the Society and Fellowship of the <hi>Saints; left</hi> their being obedient to any, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay all the <hi>Commands</hi> of God: <hi>left</hi> the Temple or House of God,<note place="margin">1 Cor. 6.19.</note> their own <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>odies; <hi>left</hi> being any more at home in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>heir own hearts; not taking the least care what becomes of the <hi>Temple of God,</hi>
+               <note place="margin">Jer 7 Mat. 21.13. Jer. 5.27.</note> what pollutions and defilements its fil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed with; nay, suffer it to be made a <hi>Den of Thieves, a Cage of unclean Birds;</hi>
+               <pb n="2" facs="tcp:199117:11"/> a stie where only are kept Swine: Nay, not only so, but have travell'd so far, far indeed both from peace, truth, righteousness and holiness (which as it only becomes the house of God, so no where else is it to be found) they have spent all their <hi>Portion,</hi> and are so ne<g ref="char:EOLhyphen"/>cessitated for <hi>Bread,</hi> as they would gladly fill their bellies, with the Husks that only Swine feed on.</p>
+            <p>Yet finding but few of those many, that at last come to themselves, and considering that in their fathers house is Bread enough, return to their Fa<g ref="char:EOLhyphen"/>ther, confessing <hi>they have sinned against Heaven and before him, and are no more worthy to be called his Sons:</hi>
+               <note place="margin">Psal. 84.10.</note> Yet would fain be entertained into his house again, though but as one of his <hi>hired Servants,</hi> finding with <hi>David,</hi> by sad experience, That <hi>'tis better to be a door-keeper in the house of God, than to dwell in the tents of wicked men:</hi> And finding none of those few, that have returned from that sad, dangerous and most perilous journey that have (for the preventing of other<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from running of that sad race) decla<g ref="char:EOLunhyphen"/>red either the danger or misery whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> attends it, or discovered any of the sub<g ref="char:EOLunhyphen"/>til snares of Satan, whereby he cat<g ref="char:EOLunhyphen"/>ches,
+<pb n="3" facs="tcp:199117:11"/> and carries them into those far Countries.</p>
+            <p>And though it hath been my sad por<g ref="char:EOLhyphen"/>tion to be one of those Prodigals in these our last days: Yet since the Lord out of the riches of his mercy towards me, hath been pleased to make choice of me to be one of those few which at last came to themselves (though such was the stubbornness of my base heart, as I endured to be beaten with many stripes first,<note place="margin">Luke 12:47</note> and considered that in my fathers house was bread enough; yet mercy enough, notwithstanding my Soul was eaten through with hunger, by reason of the abounding of my Ini<g ref="char:EOLhyphen"/>quities, my redoubled iniquities, to patdon them, all them;<note place="margin">Psalm 57.7</note> that there was water enough to wash me as <hi>white</hi> as <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>now</hi> through my inipuities I have made my self as <hi>red as Crimson:</hi> Yea not only to consider or remember, but to resolve to go to my father.</p>
+            <p>And no sooner was my heart and eye set thither-ward,<note place="margin">Psalm 2 5.11.</note> crying out with <hi>Da<g ref="char:EOLhyphen"/>vid, Pardon my iniquity Lord,</hi> why, as if God should have replyed) not be<g ref="char:EOLhyphen"/>cause <hi>they be little or few, but because they be great</hi> or many; as if he should <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay, Lord take advantage by the great<g ref="char:EOLhyphen"/>ness
+<pb n="4" facs="tcp:199117:12"/> of my iniquity, to discover thy master-piece, thy great love, thy Son, thine only Son, the richest, the choicest of thy mercies: I was (I say) but a while here, but I found him, (to his praise for ever be it spoken) no less a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Father to me then he was a Prodigal: for while I was yet a far off, scarce gone two or three steps, scarce cryed out from the earning of my sad unworthy heart, two or three times unto him; <hi>but he saw me, when I was yet a far off:</hi> far indeed from peace, truth, holiness or righteousness; being in the midst of of nothing but <hi>Swine,</hi>
+               <note place="margin">Psal. 12.8. &amp; 13.13.</note> my own base filthy lusts, and beset therewith on every side: Yet here he saw me, even thus far <hi>off.</hi>
+            </p>
+            <p>
+               <hi>[And come runing]</hi> came indeed so swift,<note place="margin">Can. 6.12.</note> as I saw him not till he met me, <hi>and fell on my neck, and kissed me:</hi> until he took my sad heart up from his bed of misery,<note place="margin">Can. 1, 2. Psal. 19.20. &amp; 119.103.8. Pet. 1.8.</note>
+               <hi>and kissed me with the kisses of his mouth: which</hi> indeed <hi>are better than wine, and sweeter they were to my taste then the honey-comb:</hi> filling me on a sudden, <hi>with joy unspeakable, and full of glory.</hi>
+            </p>
+            <p>Wherefore I jadge it nothing less than my duty, to discover, according to that small ability God hath given me,
+<pb n="5" facs="tcp:199117:12"/> (though indeed the unfittest amongst the sons of men for such a work,) the subtil snares of Satan, whereby I was carried into those <hi>far Countries.</hi>
+               <note place="margin">Luke 15.</note> And the parable of the Prodigal being that, by which the Lord was pleased to dis<g ref="char:EOLhyphen"/>cover unto me the sad condition I was fallen into; I shall endeavour by that parable to discover it unto you.</p>
+            <p>First,<note place="margin">Luke 1.5.12.</note> You find the Prodigal to be a Son.</p>
+            <p>Secondly, The youngest Son.</p>
+            <p n="1">1. A Son: That is, such a one as God according to the visible declaration in the Gospel, had owned to be his Son; a believer, one of the Family or Church of God.</p>
+            <p n="2">2. The youngest Son. By youngest may be understood, the last converted, or least knowing in the house of God: But to proceed.</p>
+            <p>The first thing we meet with in this Parable to our purpose is, in verse 12. where we find him asking for his <hi>Por<g ref="char:EOLhyphen"/>tion:</hi> saying,</p>
+            <p>Father give me my Portion.<note place="margin">Psal. 12.2. &amp; 39.25 Ecles. 1.1<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>Man having lived along time in dark<g ref="char:EOLhyphen"/>ness, being acquainted with nothing but the vanities of this World: coming at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ast through mercy to behold some
+<pb n="6" facs="tcp:199117:13"/> glimps of the light of the Gospel of Je<g ref="char:EOLhyphen"/>sus Christ shining in and upon his dark heart,<note place="margin">Joh. 9.</note> is immediately set on fire of zeal after more of the knowledge of God and his truth,<note place="margin">Mark this well.</note> thinking that he is able now to eat any meat, that there is no<g ref="char:EOLhyphen"/>thing to be done by him, but to get up to the top in knowledge of all the my<g ref="char:EOLhyphen"/>steries of the kingdom of Christ: where<g ref="char:EOLhyphen"/>by in him is hindred the effecting of that work, which God intended by his sending and giving of him that glimps; to wit, The discovering in him the fil<g ref="char:EOLhyphen"/>thiness and wretchedness of his own heart, how continually in all its actions it opposes and runs from God and his truth; <hi>loving</hi> its own darkness rather than that <hi>light,</hi>
+               <note place="margin">Joh. 3.91. Joh. 1.9. Acts 6.19.25. Joh. 3.19.</note>
+               <hi>which lightens every man that comes into the World; fearing lest its craft should be discovered; and therefore it loves darkness rather than light, because its deeds are evil.</hi>
+            </p>
+            <p>Man herein being too hasty catches only the Shell, leaves the Kernel behind him, whereby he becomes fill'd with nothing but air; puffed up with spiri<g ref="char:EOLhyphen"/>tual <hi>Pride,</hi> instead of spiritual truth and righteousness; yet thinks, that because he is now filled with zeal, (not know<g ref="char:EOLhyphen"/>ing that there is zeal, not according to
+<pb n="7" facs="tcp:199117:13"/> truth or knowledge, nor what the mean<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing of the Apostle was, by saying,<note place="margin">1 Cor. 81.</note>
+               <hi>know<g ref="char:EOLhyphen"/>ledge puffeth up</hi>) and that only after the knowledge of the things of God; when formerly his heart was set only after the World and the vanities thereof, That without doubt his condition is good; he goes on firm ground, where three is no need or fear of his slipping or falling; wherefore he cryes out,</p>
+            <p>
+               <hi>Father give me my Portion;</hi> Give me all knowledge, that I may be able to dispute for, or against all opinions; able to answer all objections, <hi>&amp;c.</hi>
+            </p>
+            <p>To please this foolish young man, that he might take his fill of the pleasures of the world, as to appear great and fa<g ref="char:EOLhyphen"/>mous in the eyes of men; his Father gives him his Portion, his desire, lets him attain to great knowledge, it being the alone mark his spiritual proud heart aims at, the only garment desirous in his eye, as having a glorious lustre, far transcending those filthy rags of drun<g ref="char:EOLhyphen"/>kenness, swearing, <hi>&amp;c.</hi> the which he formerly was only acquainted with, and did wear, and that even a holy-days.</p>
+            <p>
+               <hi>Immediately after, or a while after,</hi> (as some translations render it) <hi>he gathers all together.</hi>
+            </p>
+            <pb facs="tcp:199117:14"/>
+            <p>Attains to the knowledge of all my<g ref="char:EOLhyphen"/>steries, even of the resurrection it self, or at least he thinks so; which so puffs him up, as he imagines he is what he knows: when it may be he never had the least inward experience of the power of God in subduing any corruption, and in bringing forth fruits of righteousness and holiness from within, but is only at present so busie in following spiritual pride, as that it hath caused him to cease from gross and outward abomina<g ref="char:EOLhyphen"/>tions: Next</p>
+            <p>[He takes his Journey.]</p>
+            <p>He thinks now because he hath got<g ref="char:EOLhyphen"/>ten this great knowledge, as that he is able to talk and make a description of a state and condition without sorrow: Imagining of that condition which the Scripture speaks of,<note place="margin">Rev. 21.4.</note>
+               <hi>when all sorrow shall be wiped from their eyes,</hi> &amp;c. Having builded a Castle in the Air, which is (as he thinks) a true description of that condition: being so puffed up, as he cannot tell whether he be in the body or out of the body,<note place="margin">2. Cor. 12.2.</note> that he discerns nor knows no difference, betwixt knowing and being what he knows, imagines he's got into that condition; whence he concludes, he is now no more to know
+<pb n="9" facs="tcp:199117:14"/> any man or thing <hi>after the flesh:</hi>
+               <note place="margin">2 Cor. 5.16.</note> that is (saith puft up man) not to do any ser<g ref="char:EOLhyphen"/>vice either to God or man with his bo<g ref="char:EOLhyphen"/>dy; but lay that aside as useless, especi<g ref="char:EOLhyphen"/>ally in his doing any thing that is com<g ref="char:EOLhyphen"/>manded him by God.</p>
+            <p>Hence he comes to leave off his obe<g ref="char:EOLhyphen"/>dience to all the commands of God, say<g ref="char:EOLhyphen"/>ing, what a poor thing it is to be praising and praying to God? That's milk fit only for Children, and the like; that's only for such as live at distance from God and Christ; only enjoying Communion with God and Christ by Faith, having not received the promise:<note place="margin">Heb. 11.39.</note> But faith he I have passed all this; I am acquaint<g ref="char:EOLhyphen"/>ed with a condition beyond all this; I live in the enjoyment of that which you only live i<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hope of, <hi>&amp;c.</hi> And <hi>thus he spends his Portion in rioting and wanton<g ref="char:EOLhyphen"/>ness,</hi>
+               <note place="margin">2 Pet. 2.18.</note> which <hi>great swelling words</hi> of his make him greatly applauded and ad<g ref="char:EOLhyphen"/>mired by men.</p>
+            <p>By this time you may perceive he's on his journey: well, the first City he en<g ref="char:EOLhyphen"/>ters into, is spiritual <hi>Sodom</hi> and <hi>Egypt;</hi>
+               <note place="margin">Rev. 11.8.</note> where is a people fit for his Company, where is a people who neither speak, act, nor do any thing, either spiritual or temporal but as the spirit moves them
+<pb n="10" facs="tcp:199117:15"/> (as they say,) not that I would have any mistake me, and think I am one who mock at the spirit, and at man for fol<g ref="char:EOLhyphen"/>lowing its motions; no, I own pray<g ref="char:EOLhyphen"/>ing with the spirit and with understan<g ref="char:EOLhyphen"/>ding,<note place="margin">1 Cor. 14.15</note> as the Apostle exhorts; But find<g ref="char:EOLhyphen"/>ing by sad experience that many; nay, the most of those that <hi>pretend</hi> so much for the <hi>spirit,</hi> have no <hi>rule</hi> (meaning such as lay aside the Scripture as a dead let<g ref="char:EOLhyphen"/>ter, <hi>&amp;c.</hi>) either for themselves or others, whereby they be able to distinguish be<g ref="char:EOLhyphen"/>twixt the motions of the spirit, and the motions of the flesh; but without questi<g ref="char:EOLhyphen"/>oning rather (thinking they have no o<g ref="char:EOLhyphen"/>ther life, and so consequently no other motions in them but the spirit of God) what moves them, to go on, indeed fol<g ref="char:EOLhyphen"/>lowing only the motions of the flesh and the lusts thereof.<note place="margin">Ro. 1.24.</note>
+            </p>
+            <p>Amongst which people presently he is as forward as the best, getting him im<g ref="char:EOLhyphen"/>mediately (having a portion by him to purchase it) a garment made of that fashion, trimmed with the richest <hi>trim<g ref="char:EOLhyphen"/>ming</hi> that in that <hi>City</hi> is to be got, That is, he hath such a large capacity, as that he hears no high flown opinion from the most knowing amongst them (which he only looks after) but immediately it is
+<pb n="11" facs="tcp:199117:15"/> his own, he not minding any thing else, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut wholly making that his work.</p>
+            <p>And now being got into the fashion, and arrayed with the richest, and (if pos<g ref="char:EOLhyphen"/>sible) excelling them, He begins to keep company with the best; and being a young man scorns to be base, spends free<g ref="char:EOLhyphen"/>ly, and by his good will, will pay all the reckoning, call for what you will; That is, would have all the talk, being wil<g ref="char:EOLhyphen"/>ling to appear a man able to dispute for or against all opinions; answer all ob<g ref="char:EOLhyphen"/>jections, and that to the purpose too.</p>
+            <p>But it may be by this time Conscience may a little prick, he may look back to<g ref="char:EOLhyphen"/>wards his Fathers house; In detestati<g ref="char:EOLhyphen"/>on of such a thought, as if he were angry with himself, he replyes.</p>
+            <p>What have I ascended almost into Heaven,<note place="margin">Luk. 9.62</note> and shall I now come down a<g ref="char:EOLhyphen"/>gain to Walk on the Earth? <hi>Have I set my hand to the plough, and shall I now look back?</hi> (you need not wonder that he useth the Scripture, or rather abuseth it; for you may find it was of old the De<g ref="char:EOLhyphen"/>vils wonted course, when he thought he should meet with his match, to come with Scripture in his mouth, as when he tempted Christ.) As an antidote or poy<g ref="char:EOLhyphen"/>son against such a thought, he musters up
+<pb n="12" facs="tcp:199117:16"/> all the failings and imperfections of the Saints: and it may be he hath been a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> eye-witness to some, and they not small ones neither: As perhaps he had for<g ref="char:EOLhyphen"/>merly been a member of some Church, and notwithstanding he a long time walked apart from them: yet so cold and careless were they (the which is an evil too common among the Saints in this our last Age, with shame do I speak it) in that their great duty which by God is required of them; to wit, to watch in <hi>love over their Bretheren,</hi>
+               <note place="margin">Luk 15.4. Mat. 18.11.</note> and with the good Shepherd missing but one sheep only, <hi>leaves the ninety and nine, seeking that which is lost, if possible to find it, telling him his faults between them two,</hi> &amp;c. As that they do not so much as come once at him; much less express towards him that love in performing their duty as of <hi>them</hi> in that case was required, with (it may be) many more failings which he of late only took notice of; where<g ref="char:EOLhyphen"/>by he for ever afterwards stops his Con<g ref="char:EOLhyphen"/>science from speaking any more, look<g ref="char:EOLhyphen"/>ing either not at all on or towards them except it be as they be represented through their imperfections to his eye; whereby he never afterwards speaks of them, except in upbraiding of them,
+<pb n="13" facs="tcp:199117:16"/> saying, they be a people <hi>who have the form of Godliness, but want the power,</hi>
+               <note place="margin">Ro. 2.20. 2 Tim. 3.5.</note> and the like. But to proceed,</p>
+            <p>Being now in his <hi>own</hi> conceit, at<g ref="char:EOLhyphen"/>tain'd to such a <hi>height</hi> of perfection (though in truth fill'd with nothing but spiritual pride) he thinks he's ready to meet the son of man at his second coming: like those <hi>Malachi</hi> speaks of, who say, <hi>where is the God of Judgment?</hi> When comes he? and the like; Not minding what is in the next Chapter, where God answers them, saying,<note place="margin">Mat. 2. last Mal. 3.1.</note>
+               <hi>I'le send the Messenger of my Covenant,</hi> &amp;c. <hi>even he whom ye delight in</hi> (at or lest pro<g ref="char:EOLhyphen"/>fess so) but see what follows; <hi>But who shall abide his coming, and who shall stand when he appears?</hi> Why, as (if they should reply) what's the matter? Its greater then you are aware of.<note place="margin">ver. 2</note>
+               <hi>For he is like a Refiners fire, and like Fullers sope:</hi> You are exceedingly mistaken about his com<g ref="char:EOLhyphen"/>ing, not but that he will come, but in the manner and end of his coming: for if you did with the Apostle rightly un<g ref="char:EOLhyphen"/>der<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ta<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d the manner and end of his com<g ref="char:EOLhyphen"/>ing, <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u would say, <hi>what manner of per<g ref="char:EOLhyphen"/>sons <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we to be?</hi>
+               <note place="margin">1 Pet. 3.11</note> we ought to be all <hi>sil<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r</hi> for he in his coming is like a <hi>Re<g ref="char:EOLhyphen"/>finers fire;</hi> no<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only <hi>fire,</hi> but the searching
+<pb n="14" facs="tcp:199117:17"/> of <hi>fire,</hi> a <hi>fire</hi> wherein nothing will re<g ref="char:EOLunhyphen"/>main unconsumed but <hi>pure silver.</hi> Bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to return.</p>
+            <p>As Satan never is wanting in mean<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whereby to accomplish what he hat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> begun, nor never kindled a fire, but like<g ref="char:EOLunhyphen"/>wise will provide fuel to continue i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with: so at last this Prodigal comes t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hear of one or other, who are on a sud<g ref="char:EOLunhyphen"/>den filled with strange raptures and re<g ref="char:EOLunhyphen"/>velations, as that the last day is at hand and they be commanded to triumph i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> forth, <hi>&amp;c.</hi> After which man immediate<g ref="char:EOLhyphen"/>ly he run, crying out, none but he; o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whom it may be he hears a thousan<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> strange notions and novelties more which like a fresh gale of wind blow on his Sails which he hath alway<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hoistered, and that as he thinks for n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> other Haven, but Heaven it self.</p>
+            <p>Upon which waves (indeed bein<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> only his own fancy and imagination) h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> having a long time been tossed to an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> fro, even till his portion begins to gro<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> small, his great confidence begins to fa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> him, he is put to his last shift, havin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> spent all his portion, all his hopes be<g ref="char:EOLunhyphen"/>ing gone of ever arriving where h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thought he had been so nigh: being pu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> now to use his wits, he looks about hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="15" facs="tcp:199117:17"/> and behold <hi>though</hi> all his portion be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pent; yet he hath a great many good <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uits of Apparel yet left him, which <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay a long time stand him instead, if <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e do turn them the inside outward; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r more plainly thus.</p>
+            <p>The Devil (it being the last Card he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ath to play) tells him, he hath no such <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ause to be so troubled, for he is arrived <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fe where he desired: only he is mis<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ken, looking too carnally upon things; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r Christs second coming, which he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oks so much for, is not carnally, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iritually to be understood; saying, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Jews of old, by being tainted with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is thy error, rejected Christ at his first <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ming, I say by reason of the carnalness their expectations, who expected he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ould have been some great Monarch earthly King: which dangerous error thine let me therefore rectify thee in, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t thou proceed in rejecting of him, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>w he is come, and so with the Jews <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ever in vain to expect him hereafter. Thy expectation is for a second com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Christ in the clouds; now herein <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hy mistake, Christs second coming <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>l not be visible to men,<note place="margin">Joh. 14.17</note> but only spi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ally in men. Wherefore do but turn <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>se thy Garments the inside outward;
+<pb n="16" facs="tcp:199117:18"/> do but spiritually look upon things, and you shall find <hi>he is not in Heaven,</hi>
+               <note place="margin">Deut. 30.13.</note>
+               <hi>nor be<g ref="char:EOLhyphen"/>yond the Seas,</hi> that thou shouldst thence expect <hi>him,</hi> but <hi>he is near thee, even in thy heart, and in thy mouth,</hi> he is withi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thee, <hi>&amp;c.</hi>
+            </p>
+            <p>Now the poor Prodigal being almos<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> spent, having run himself out of breat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to keep his credit, is willing to use any shift, begins to follow his advice.</p>
+            <p>
+               <hi>But there arising a great Dearth]</hi> h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hath no sooner turned his eye inwar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon the inside of his Garments, bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> behold there is nothing but filth, o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more plainly thus,</p>
+            <p>He no sooner comes to turn his ey<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> within himself, but behold, <hi>whilst<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> slept,</hi>
+               <note place="margin">Mat. 13.25.</note> whilst he hath been all this tim<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> abroad, never having so much as cast h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> eye homewards before, <hi>Satan came a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sowed there tares:</hi> he having been indee<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a long time one of those sluggards me<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tioned, <hi>Prov.</hi> 24.34. whose field and ga<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>den, for want of manuring and dressin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was, the one over-run with Thorns an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the other with Nettles, and the ston<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> wall thereof broken down. The behol<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing of which unexpected dismal sigh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his falling into such company on a su<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>den, his finding in him nothing but
+<pb n="17" facs="tcp:199117:18"/> co<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pany of base Lusts, inviting of him it may be to Curse, Swear, Blaspheme, <hi>&amp;c.</hi> to let these things come forth he is ashamed and loath, saying within him<g ref="char:EOLhyphen"/>self, shall I who have made such a high profession, as of living above with God and Christ, of having my Conversation in Heaven, <hi>&amp;c.</hi> shall I now disgrace my self thus? no saith he, I'le dye first.</p>
+            <p>But being necessitated, having now spent his portion: and being in this far strange Country, he must either work or starve, life being sweet: he is willing to any thing rather than perish, be<g ref="char:EOLhyphen"/>come a servant; <hi>And he goes and joyns himself to a Citizen of that Country</hi> (which is the Devil) <hi>who sends him to his Farm,</hi> (meaning the Prodigals heart) which is now become the Citizens or Devils Farm, to keep Swine: (you do not read of any thing else the Devil had there but Swine.) That is, he sent him to his own heart, to keep his base <hi>Lusts</hi> (which his heart is now full of, and of nothing else) which lye ravening with<g ref="char:EOLhyphen"/>in him to come forth like Swine, who for want of <hi>Meat,</hi> will run crying and ravening up and down.</p>
+            <p>Next you find, <hi>He would fain have filled his belly with the husks the Swine did</hi>
+               <pb n="18" facs="tcp:199117:19"/>
+               <hi>eat, but no body gave them him:</hi> Two sorts of Husks I find the Swine hath to eat, which the Prodigal would fain have filled his belly with.</p>
+            <p>First, all his great knowledge which the Prodigal had for a long time im<g ref="char:EOLhyphen"/>braced as something, he sees now to be but husks, though he would fain have filled his belly with them he cannot; but Swine eat them up before his face; that is, they be now turned before him into nothing but Drunkenness, Whor<g ref="char:EOLhyphen"/>ing, Swearing, Cursing, <hi>&amp;c.</hi> which he now finds compassing him about.</p>
+            <p>Secondly, by husks I understand vain pleasure, which is represented to mans eye as to be had in acting of those abo<g ref="char:EOLhyphen"/>minations, as Whoredom, <hi>&amp;c.</hi>
+            </p>
+            <p>For I conceive there appeared to the Prodigals eye something in the <hi>Husks</hi> which might serve him to satisfie his hunger with: For we find the reason why he desired them, was to have filled his belly with them; or it may be the Devil might beget this opinion in him, that it were better for him to let his corruptions come forth, for that was in order to healing, saying, it would be in vain for him to go about to administer a heavenly Plaister, until all the corrup<g ref="char:EOLhyphen"/>tion
+<pb n="19" facs="tcp:199117:19"/> was drawn forth from within.</p>
+            <p>Or lastly, the Devil might (in regard he had brought them into this far coun<g ref="char:EOLhyphen"/>try, far from all light and truth of the Gospel of Christ,<note place="margin">Heb. 1.13.</note>) perswade him that God <hi>was a God of more purer eyes than to behold iniquity,</hi> saying, the meaning of that is, it is only the impure eyes of man that sees iniquity, it's only the weakness of mans eye, which causeth him to think he sees good and evil; it being only the imagination of man, which is indeed a lie; and therefore, saith he, that saying is <hi>evil to him that evil thinks;</hi> do but you leave off such thoughts, and presently you will see that all actions and things are like, upon which man swallows pre<g ref="char:EOLhyphen"/>sently iniquity as a fish swallows water.</p>
+            <p>
+               <hi>He would fain have filled his belly with the husks, but no man gave them him;</hi> even so 'tis with the poor Soul, that though he see nothing but <hi>filthy Swine,</hi> and they feeding on nothing but filthy Husks, base Lusts, which hurry him into this and the other abomination, which pretend and make a swelling shew of substance or pleasure to be had in them; but in the using appear to be nothing but emptiness, rather choaking than fil<g ref="char:EOLhyphen"/>ling the belly; <hi>fain would he have filled
+<pb n="20" facs="tcp:199117:20"/> his belly with those husks, but no man gave them him,</hi> so must I needs confess to my shame, that such was the wretched<g ref="char:EOLhyphen"/>ness of my unworthy heart, as that I would fain have filled my belly with those <hi>husks,</hi> let any abomination come forth, and indeed did begin to eat of those husks; and as we find the reason why the Prodigal did not fill his Belly, was not because he would not, but <hi>be<g ref="char:EOLhyphen"/>cause no man gave them him;</hi> so the reason (as to my shame, so to the Glory of God for ever be it spoken) why I did not finish up in sin that it might have <hi>brought</hi> forth eternal death and woe, was not because I would not, but because I was prevented by the love of God, <hi>which made me come to my self,</hi> to weigh things in the ballance of Truth, searching (like the wise <hi>Bere<g ref="char:EOLhyphen"/>ans</hi>) the Scriptures (the which before I had laid aside as a dead useless thing,<note place="margin">Acts 17.11.</note> ima<g ref="char:EOLhyphen"/>gining I had gotten that unction where<g ref="char:EOLhyphen"/>by I knew all things, and needed not that any man teach me,<note place="margin">1 Joh. 2.27.</note> needed no mans wri<g ref="char:EOLhyphen"/>tings, no not the Apostles and Prophets themselves, but that I had teaching enough; nay was able to teach others, <hi>&amp;c.) whether those things were so or no,</hi> I began to be amazed and confounded in my <hi>self,</hi> to behold what madness, folly
+<pb n="21" facs="tcp:199117:20"/> and vanity I had a long time been car<g ref="char:EOLhyphen"/>ried away with.</p>
+            <p>That I was so foolish as to believe I was travelling towards heaven and hap<g ref="char:EOLhyphen"/>piness, when my own conscience, (if I had but suffered it to speak) would have told me that the way I went was quite contrary, that it was the broad Road<g ref="char:EOLhyphen"/>way to destruction, and not only my own Conscience, but the experience of the Saints in all Ages, and above all, the Scriptures themselves would most plainly have made it manifest to me: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aying, <hi>Can a man gather grapes of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>horns, or figs of thistles.</hi>
+               <note place="margin">Mat. 7.16.</note>
+            </p>
+            <p>O that I should be so foolish as to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hink I could carry coals in my bosom and not be burnt therewith;<note place="margin">Prov. 6.27, 28.</note> That I <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hould have nothing but thorns and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>histles growing in my heart, and yet <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hould expect in summer to gather there<g ref="char:EOLhyphen"/>of grapes and figs, that I should do no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hing but evil,<note place="margin">Mat. 12.25. ver. 33.</note> and yet expect good to come thereof: no, saith Christ, if a king<g ref="char:EOLhyphen"/>dom be divided against it self, how can <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat kingdom stand? either make the tree good and his fruit good, or the tree evil and its fruit evil, make both alike.</p>
+            <p>When I came to my self, I no sooner <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>egan seriously to weigh and consider
+<pb n="22" facs="tcp:199117:21"/> my condition, but I began to cry out for my self, wondering the wrath of God had not ere this time swallowed me up. O! That I should be so foolish, as to run after the shadow, leaving the substance behind; That I should follow nothing but the foolish imaginations of my own heart, and not only so but to call them the motions of the spirit of God.</p>
+            <p>
+               <note place="margin">Joh. 4.24.</note>That I should pretend to worship God in spirit and truth, when I was running from God, and leaving off his Saints and people, turning my back upon all the commands of God.</p>
+            <p>
+               <note place="margin">Joh. 16.2.</note>To think with <hi>Saul,</hi> I was zealous for God and his truth, doing God good ser<g ref="char:EOLhyphen"/>vice, when I was persecuting his servants &amp; Saints, backbiting and speaking evil o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them; watching that if possible I might cause any of them to stumble and fall, in leaving off their obedience to the com<g ref="char:EOLunhyphen"/>mands of God; rejoycing at their infir<g ref="char:EOLhyphen"/>mities; being glad when I could take any just occasion (by reason of any o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their failings) to speak evil of them.</p>
+            <p>
+               <note place="margin">Mat. 22.11.</note>That I should be so foolish as to think I was prepared to meet the bride, or Christ at his second coming, when I had no wedding-garment on,<note place="margin">Mat. 22.11.</note> nay instead thereof was clothed with nothing but
+<pb n="23" facs="tcp:199117:21"/> filthy rags, base lusts, my heart running out after nothing but vanity and lies.</p>
+            <p>That I should think 'twas the way to life and happiness, in order to heal<g ref="char:EOLhyphen"/>ing, to let what abominations would come forth, to be obedient to any, nay to every lust.</p>
+            <p>And not only to act all this at home in my <hi>own</hi> heart:<note place="margin">1 Cor. 6.15, 16.</note> to fill the Temple of God with all these idols, but to mani<g ref="char:EOLhyphen"/>fest this my folly to all the World, and to contend for them as things fit to be minded.</p>
+            <p>I say when I came so to my self, as se<g ref="char:EOLhyphen"/>riously to behold all this, finding that I was gotten into a way, which was as the wise-man saith, <hi>Prov.</hi> 16.25. There is a way that seemeth right unto a man, but the end (or issues) thereof are death; though it did seem to me right, even that which would bring me safe to my expected end, glory and happiness, yet I find the issues thereof was nothing so; and came at last to see the way I was in, led to destruction.</p>
+            <p>I said with the Prodigal,, <hi>how many hired servants of my Fathers have bread enough, and to spare, and I perish here with hunger?</hi> How many are there, which as yet know not that they be adopted sons
+<pb n="24" facs="tcp:199117:22"/> of God, as know not their interest in Christ; who though they do believe, yet they cry, Lord help my unbelief, to whom Christ hath not given an answer: yet such is the fulness of my Father<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> house, as they have bread enough and to spare, have so many secret upholding and whisperings of the spirit of life and truth in them, as keeps their spirits from fainting, and moreover gives them many causes of rejoycing: all which at present to consider, wounded me the more; I <hi>perish here for hunger.</hi> But through mer<g ref="char:EOLhyphen"/>cy, having some hope yet left as to know <hi>those God loves, he loves to the end, and that his mercies endure for ever.</hi>
+               <note place="margin">Joh. 13.1.</note> I said, <hi>I will arise and go to my Father, and con<g ref="char:EOLhyphen"/>fess I have sinned,</hi> &amp;c.</p>
+            <p>I will no longer lie in this bed of filth, <hi>I will arise,</hi>
+               <note place="margin">Ps. 105.8. &amp; 111.9. &amp; 119 8.9.</note> I will no longer go after the lusts and abominations of my base heart, <hi>but go to my Father,</hi> go and be obedient to all the commands of God, throwing my self down at the foot of God, say<g ref="char:EOLhyphen"/>ing, Lord though I perish, yet will I trust in thee, yea though thou slay me; <hi>for there is mercy in thee that thou mayest be feared.</hi>
+            </p>
+            <p>
+               <hi>And say unto him, Father I have sinned against Heaven, and before thee, and am no
+<pb n="25" facs="tcp:199117:22"/> more worthy to be called thy Son,</hi> &amp;c. <hi>I <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ve sinned against Heaven:</hi> against the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ecious Gospel of Jesus Christ; not<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>thstanding thou unbosomest that rich <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e of thine unto me, as when I was in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> blood, cast out to the loathing of my <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rson, and no eye pitied me,<note place="margin">Ezek. 16.6.</note> even then <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> casting the skin of thy mercy over <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, hiding thereby all my nakedness and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>formity against this <hi>Heaven,</hi> all this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ercy and love have I sinned.</p>
+            <p n="2">2. <hi>Against Heaven,</hi> against the Saints <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d people of God; in causing the way <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> truth to be evil spoken of, thy Saints <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>braided and contemned, and thy <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me dishonoured; and slighted all thy <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ecious commands and ordinances, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rned my back upon them, despising <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d trampling them under my feet: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gainst Heaven yet more than all this; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t thinking it enough that I <hi>disobeyed</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>l thy commands, despised all thy Saints <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd people, casting contempt on them, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t invited, (as much as in me lay) <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aused others to do the same.</p>
+            <p n="3">3. Against Heaven, notwithstanding <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou in mercy gavest me many regrets <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f Conscience by the word and spirit; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>et by all these was not I stopped, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>earkened to every call, and yielded my
+<pb n="26" facs="tcp:199117:23"/> self up a servant to sin and Satan, ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing my body (that should have been h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly and spotless, not suffering any defil<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment to have come to thy temple,) Cage wherein were all manner of u<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>clean birds, a stie full of nothing b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> filthy swine, spent that portion tho<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> gavest me with a Harlots.</p>
+            <p>Lord how have I trampled under m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> feet that holy Ordinance of thy Ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>riage, in not being thankfully conte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ted with what thou out of thine infinit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> wisdom createdst for man in the begin<g ref="char:EOLunhyphen"/>ning, one woman, <hi>that they twain mig<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be one flesh,</hi>
+               <note place="margin">Gen 2 18.24.</note> the which being nothing le<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> then a figure of that heavenly intend<g ref="char:EOLunhyphen"/>ment of thine, the Son of thy love Chri<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Jesus, one Spouse or beloved: But de<g ref="char:EOLunhyphen"/>spised and sl ghted this thy institution choosing rather to follow the voice o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Satan and my own base lustful heart, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from thence concluded, 'twas lawful fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> me to have more than one Wife, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not only consented within me to this abomination, and violation of this thy law, but brought it forth into action, taking into my bosome another besides my wife, nay herein redoubling my ini<g ref="char:EOLhyphen"/>quity, taking even one that was then Wife of another man; And not only
+<pb n="27" facs="tcp:199117:23"/> done all this wickedness in thy sight; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t called this my <hi>detestable</hi> abomina<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on, righteous and good, contending <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r it before men, though it be that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hich the very heathens abhor, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e very brand and character of those <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hom thou intendest shall never <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e thy face, thy love, thy son, Heaven <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d happiness, but for ever be cast <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rth into utter darkness, as the Apostle <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ul</hi> said to the Corinthians.<note place="margin">1 Cor. 6.9.</note> Know ye <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t that the unrighteous shall not in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rit the kingdom of God? be not de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ved: neither fornicators, nor Idola<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, nor adulterers, &amp;c. Shall inherit <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Kingdom of God, &amp;c.</p>
+            <p>Yet O! Lord herein have I sinned a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inst <hi>Heaven, and done all this wick<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ess in thy sight,</hi>
+               <note place="margin">Luke 12.47. 2 Chron. 30.9. Jer. 32.40.</note> notwithstanding I <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ew thy will, yet I did it not:</hi> though <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as one that thou settest before thee <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thy delight, to dandle in the lap of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Love: from whom thou intendest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ver to turn thy face; even here be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e thee have I sinned and done all this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ckedness in thy sight: though I knew <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>u wast a God from whom no thought, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch less action could be hid: Lord <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at shall I say, <hi>my sins are as the sands <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, who can number them?</hi> So
+<pb n="28" facs="tcp:199117:24"/> vile, so wretched am I, as I am n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> worthy to be called thy Son: n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> worthy any more to sit at thy table yet Lord I will fain be entertained<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gain into thy house, though but as o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of thy hired servants, but a door-ke<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>per, though but as one that must n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> go into thy house to behold and parta<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of thy rich mercies, but stand at t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> door:<note place="margin">Psa. 84.10</note> for 'tis better Lord to be a doo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> keeper in thy house, than to dwell<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Tents of wicked Men.</p>
+            <p>But <hi>when he was yet a great way<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his Father saw him,</hi> &amp;c. I had<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gone far in confession and forsaki<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but was hedged up by my iniquitie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ready to be swallowed up by them eve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> moment; so that if I went into<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>field,</hi> into the World, there present one object or other presented it self my base lustful eye, which like thor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pricked and wounded my heart to b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hold if I looked into my <hi>garden,</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>heart,</hi>
+               <note place="margin">Pro. 34.24.</note> which <hi>should</hi> have bin filled w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all precious flowers of divine pleasur<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> behold, there was nothing but <hi>nett<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> nothing but <hi>restlesness,</hi> and <hi>unquietn<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> stinging and <hi>wounding</hi> me; nay furth<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if I Looked about my heart, beho<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>the stone-wall was broken down:</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:199117:24"/> Prayer, watchfulness, nay all power, which formerly I had against sin and corruption, whereby in some measure they were subdued and kept under in me, was now broken down; so that now I was ready to be led away with every lust: But even while I was thus far off from my body, being the Tem<g ref="char:EOLhyphen"/>ple of the Holy Ghost, as it was become the Temple of Idols,<note place="margin">1 Cor. 6.19.</note> a cage of unclean birds, <hi>My father saw me,</hi> and not only so; but had compassion on me, was pleased even when my Spirit was ready to fall before him, with power to bring that saying to my heart, <hi>Malachi</hi> 3.6. <hi>I am the Lord, and I change not, therefore you sons of Jacob are not consumed;</hi> appearing indeed a God of truth, who said, <hi>He would not always contend with man,</hi>
+               <note place="margin">Gen. 6.3.</note>
+               <hi>lest his spirit should fall before him;</hi> but delights rather in shewing mercy; even when I was cry<g ref="char:EOLhyphen"/>ing out in my own heart, (from the sight of my being ready every moment to be carried away with one temptation or other) <hi>My God hath forsaken me,</hi> bringing that saying with power to my heart, <hi>Isai.</hi> 50. from the first to the fourth.</p>
+            <p>
+               <hi>Thus said the Lord, where is the bill of
+<pb n="30" facs="tcp:199117:25"/> your mothers divorcement, whom I have put away? or to which of Creditors is it I have sold you? Behold for your iniquities have you sold your selves, and for your transgres<g ref="char:EOLhyphen"/>sions is your mother put away; Wherefore when I came, was there no man? When I called, was there none to answer? Is my hand shortned at all that it cannot redeem? Or have I no power to deliver? Behold at my rebuke I dry up the sea, I make the ri<g ref="char:EOLhyphen"/>vers a wilderness, their fish stinketh for water and dyeth for thirst; I cloath the Heavens with darkness, and make Sack<g ref="char:EOLhyphen"/>cloath their covering.</hi>
+            </p>
+            <p>All which was unfolded before me thus, O foolish man, why dost thou say <hi>God</hi> hath forsaken thee, hath sold and given thee up to thy own lusts and to Satan; divorced thee from being the Spouse and beloved of his Son? who saith so? <hi>where is the Bill,</hi> which lust, nay the devil himself let him if he dare, if he can produce the Bili: <hi>which of my Creditors is it to whom I have sold thee?</hi> Behold look well about you, consider, you will find you are mistaken, you charge me falsly: <hi>for your iniquities have you sold your selves;</hi> you will find all the fault is in you, what is done, you have
+<pb n="33" facs="tcp:199117:25"/> done your self, you have sold your self; the distance that is between us, your <hi>ini<g ref="char:EOLhyphen"/>quities have made, 'tis they have sepa<g ref="char:EOLhyphen"/>rated between you and your God.</hi>
+            </p>
+            <p>
+               <hi>Wherefore when I came, was there no Man?</hi> What was the reason think ye that I so often by my word and spirit called to and within you, and you made me no answer? If I had been the cause of your being gone, why then should I call? and what was the reason there was none to answer, but only your being se<g ref="char:EOLhyphen"/>parated by your iniquities, being taken up with them, <hi>you</hi> became <hi>regardless</hi> of my calls?</p>
+            <p>
+               <hi>Is my hand shortned at all that I can<g ref="char:EOLhyphen"/>not redeem?</hi> you know I was able to re<g ref="char:EOLhyphen"/>deem you out of, and from your corrup<g ref="char:EOLhyphen"/>tions, and what is the matter now? have you tryed me, and found me un<g ref="char:EOLhyphen"/>able now to redeem you, <hi>is my hand shortned?</hi> Is there any reason why you should not come to me? <hi>Or have not I power to deliver?</hi> what think ye?</p>
+            <p>Are your sins and inquities greater and deeper then the Sea? What if they be? there is no reason for all that why you should despair of coming to me; Be<g ref="char:EOLhyphen"/>hold, <hi>At my rebuke I dry up the Sea,</hi> though you be sunk as deep into sin as
+<pb n="32" facs="tcp:199117:26"/> the Sea is of water, yet one word of my mouth can dry up that Sea: though you now swim in your iniquities like a fish in a River, yet I can dry up that River, and make those corruptions in you pe<g ref="char:EOLhyphen"/>rish for want of water: And make those Rivers a wilderness, a place where in<g ref="char:EOLhyphen"/>deed you may solitarily travel, and in your travel be put to great streights, yet a place where you shall see me work wonders;<note place="margin">Ex. 16.15.</note> where I'le rather send you bread from Heaven then you shall pe<g ref="char:EOLhyphen"/>rish,<note place="margin">Ex. 17.6.</note> and cleave the rock rather then you shall faint for want of water.</p>
+            <p>And I was followed with this saying. That there was no variableness, no not so much as a shadow of changing in him there was not the likeness of any such thing in him, continually having that saying before me,<note place="margin">1 Sam. 7.1. Isa. 55.7.</note> return unto the Lord, and he will have mercy upon you, and to our God, for he will abundantly par<g ref="char:EOLhyphen"/>don: to which in my heart I replyed, What shall I do? whither shall I return? Upon which I had this saying brought to me, Come out from among all those base lusts, and touch no unclean thing. To which I replyed, how can I come out from <hi>amongst</hi> them when I am com<g ref="char:EOLhyphen"/>passed about with them on every side?
+<pb n="33" facs="tcp:199117:26"/> Lord I cannot turn my self, but do thou turn me, and I shall be turned, <hi>&amp;c.</hi> To which <hi>I was answered in my own heart! All</hi> that is required of thee, is on<g ref="char:EOLhyphen"/>ly that thou wouldst be willing; do but resign up thy will unto the will of God, its enough: To confirm the Truth of which to me, I had those sayings brought with power to my remembrance, <hi>Lord, if thou wilt, thou canst make me clean,</hi>
+               <note place="margin">Mat. 8.2.</note> to which Christ immediately replys, (as if he should say then there is nothing wanting,) <hi>I will be thou clean:</hi>
+               <note place="margin">Mat. 20.32. Luk. 5.13.</note> and im<g ref="char:EOLhyphen"/>mediately it was so: as if Christ should have said, I am always willing and ready to do you any good, and wait only for an opportunity for you to be willing.</p>
+            <p>And likewise that saying of Christ, <hi>Jo.</hi> 3.14. <hi>As</hi> Moses <hi>lifted up the serpent in the Wilderness; even so must the son of Man be lifted up, That whosoever believeth in him should not perish but have eternal life.</hi> What manner of Person soever he was, though never so wicked, never so vile, yet if he would but give one look up, but throw himself into the arms of his mer<g ref="char:EOLhyphen"/>cy, but say with his heart there is no life to be had elsewhere: and if I periish, I'le perish here: if he but say, <hi>Lord I believe, belp my unbelief;</hi> I believe, there is mercy
+<pb n="34" facs="tcp:199117:27"/> enough in thee, and that it is there pla<g ref="char:EOLhyphen"/>ced on purpose, to save sinners: <hi>help mine unbelief;</hi> do thou put out tho<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e doubts of mine, by giving my life, by healing of me: and you need not question but you will find him a God of Truth; for he in that particular chellenges all the World, saying, <hi>who is he that hath sought the Lord in vain?</hi> and therefore <hi>look up to me all ye ends of the Earth and be ye saved.</hi>
+               <note place="margin">Isa. 45.19. Prov. 1.6.20. Ps. 37.40. Isa. 45.21.</note> But to proceed.</p>
+            <p>
+               <hi>He came running and met me;</hi> so swift was he in coming, as that I saw him not <hi>till he fell on my neck and kissed me.</hi> O how sweet is it to have the divine dew of Heaven to be distilled upon a poor fro<g ref="char:EOLhyphen"/>zen heart! of what value is it! how it makes the soul to melt and cry out with the Spouse, <hi>Can.</hi> 2.5. <hi>Stay me with Fla<g ref="char:EOLhyphen"/>gons, and comfort me with Appeals, for I am sick of love!</hi> Redoubled love! such as spared not to restore me again and again, such love as seems to swallow up and forget all my redoubled iniquities; which discovereth it self so freely, as if I had never been an offender against it!</p>
+            <p>And as the next thing we hear of the Prodigal is, that his father said to his servant, bring forth the best robe &amp; put it on hm, and put a ring on his hand, and shoes on his feet, <hi>&amp;c.</hi>
+            </p>
+            <pb n="35" facs="tcp:199117:27"/>
+            <p>So though I have no cause of boast<g ref="char:EOLhyphen"/>ing; but rather for ever to humble my self in dust and ashes, because of my abo<g ref="char:EOLhyphen"/>minations, they having been such as the wise man saith (and I by sad experience have found true in part already) my <hi>wound and dishonour to be great,</hi> and my <hi>reproach such as shall not be wiped away,</hi>
+               <note place="margin">Prov. 6.33.</note> yet will I not be ashamed to own and ac<g ref="char:EOLhyphen"/>knowledg his infinite mercies, which he hath been pleased as a robe put on me; most sweetly being pleased to take my sad heart out from its flesh and mire, in which it lay wallowing, and fill it with holy and heavenly meditations and con<g ref="char:EOLhyphen"/>templations of his rich love; making me as to loath the ways of my own sin<g ref="char:EOLhyphen"/>ful heart, (which before I took pleasure in) so now to be meditating on his law, making nothing else delightful or plea<g ref="char:EOLhyphen"/>sant to me, but rather trouble and vexa<g ref="char:EOLhyphen"/>tion of spirit; Teaching me now that lesson <hi>to commune with my own heart, and be still;</hi> to be continually (at least desiring so to be) as beholding his rich love, so my own vile wretchedness, the which causes me to be so far from thinking any thing of my self as not to suffer such a thought; but to be still, as rather being ashamed to appear or speak, e<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cept to my own shame.</p>
+            <pb n="36" facs="tcp:199117:28"/>
+            <p>Now I find the slipperiness of mans heart to be such, as <hi>that he which thinks he stands, had need take heed lest he fall:</hi> that man had need <hi>watch and pray</hi> con<g ref="char:EOLhyphen"/>tinually, <hi>lest he fall into temptation.</hi> Now not wondering why <hi>Paul,</hi>
+               <note place="margin">1 Cor. 10.12.</note> not<g ref="char:EOLhyphen"/>withstanding he had so much of the power and Spirit of God, cryed out so because of the body of sin he bare about him, saying, <hi>O wretched man that I am, who shall deliver me from this body of Death?</hi>
+               <note place="margin">Rom. 7.24.</note> nor yet why he should immedi<g ref="char:EOLhyphen"/>ately as if 'twas but the turning of an eye, but looking up to the <hi>Brazen</hi> serpent, but presently he tells you other news.</p>
+            <p>
+               <hi>Thanks be to God through Jesus Christ our Lord;</hi> cause of giving thanks, and that for deliverance too:<note place="margin">verse. 25.</note> now not won<g ref="char:EOLhyphen"/>dering why, as soon as Christ doth but a little slumber, the ship should be im<g ref="char:EOLhyphen"/>mediately covered over with waves, as that the <hi>disciples</hi> cry out Master, save us, we perish: finding now that Christ is pleased to sleep a little, and to suffer Satan to raise on poor disciples such waves, storms and tempests, on pur<g ref="char:EOLhyphen"/>pose to try his Disciples faith, and be<g ref="char:EOLhyphen"/>fool Satan,<note place="margin">Exod. 14.15. 1 Sam. 12.16.</note> so to shew his power and willingness in all straights to help them; and likewise to inform them where their
+<pb n="37" facs="tcp:199117:28"/> strength lies, that their eyes might be alwayes thitherward.<note place="margin">Joh. 5.28.</note> And now in some measure I behold the needfulness to that saying <hi>Paul</hi> useth to the <hi>Ephes. saying, Put on the whole armour of God, that ye may be able to stand against the wiles of the Devil.</hi> As if he should say, you being Christians, are not therefore to think you are safe; that you have no enemy to fear: for you being but now to have an enemy:<note place="margin">Mat. 10.23.</note> he that before was your bo<g ref="char:EOLhyphen"/>some-friend, is now become your ene<g ref="char:EOLhyphen"/>mie; <hi>that he may be able to stand against the wiles of the Devil:</hi> the <hi>Devil</hi> now is be<g ref="char:EOLhyphen"/>come your <hi>adversary,</hi> therefore now you must be a Souldier: you must learn to keep watch, to stand centinal, and not only so, but you must be armed too:<note place="margin">Mat. 26.14.</note> your enemy is one who is so strong as you are not able to withstand him, ex<g ref="char:EOLhyphen"/>cept you be armed: And 'tis not any armour will serve you neither, it must be armour of proof: <hi>put on the whole ar<g ref="char:EOLhyphen"/>mour of God;</hi> it is not a piece of Gods armour will serve thee: for thy adversa<g ref="char:EOLhyphen"/>ry is such a cunning warrier, that if thou hast never so little a place left naked, and unarmed, he will be sure to shoot all his darts there, and wound thee there; therefore <hi>put on the whole armour of God:</hi>
+               <pb n="38" facs="tcp:199117:29"/> Never think thou art safe till then, nay you must not sleep nor ly still then nei<g ref="char:EOLhyphen"/>ther, but must when you have put it on expect to fight, <hi>for we fight not, &amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">1 Thes. 5.6, 7, 1.</note>
+               <hi>Therefore let us not sleep, for those that sleep, sleep in the night,</hi> &amp;c. <hi>for we are Children of the day, therefore let us watch and be sober:</hi> But to return.</p>
+            <p>The next thing in the Parable, is, <hi>he calls for the fatted Calf to be brought in and killed, to make merry.</hi>
+            </p>
+            <p>In regard this is partly included in what went before, it being only an il<g ref="char:EOLhyphen"/>lustration of the height, depth, bredth, and length of the love of God in Christ, unbosomed, and freely held forth unto the worst of sin: I shall say no more of it but this. That such hath been the good<g ref="char:EOLhyphen"/>ness of God to me, as that he hath been pleased to bring forth and bestow on me his great rich love, by which (not<g ref="char:EOLhyphen"/>withstanding I was fallen from, and be<g ref="char:EOLhyphen"/>come a rebel to it, was gone so far from him, into such a far Country, even to the very brink of Hell; was dead, nay twice dead, dead before I was his son, and dead again afterwards) he recover<g ref="char:EOLhyphen"/>ed me, brought me back, raised me from this death; my <hi>son was dead, and is a<g ref="char:EOLhyphen"/>live was lost, is found;</hi> notwithstanding
+<pb n="39" facs="tcp:199117:29"/> the darkness I was in was such thick darkness,<note place="margin">Isa. 44.21.</note> as I was lost in the midst there<g ref="char:EOLhyphen"/>of; yet such was his love, as there he found me, and from thence brought me forth into the light, and made merry with the musick of his sweet love: O! I want an enlarged heart to admire it, and the Tongue and Pen of Men and Angels to set it forth.</p>
+            <p>Lastly, <hi>His eldest brother was in the field, and as he came and drew nigh to the house; he heard Musick and Dauncing, and he called one of his Servants, and asked what these things meant? and he said thy brother is come, and thy father hath killed the fatted calf, because he had received him safe, and sound: And he was angery and would not go in,</hi> &amp;c.</p>
+            <p>'Tis not much I have experience of this last pa<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t of the parable, having not as yet been entertained again by the so<g ref="char:EOLhyphen"/>ciety and people or house of God from which I went; but whether the reason was because my eldest brother murmur<g ref="char:EOLhyphen"/>ed at my Father for killing the fatted calf for me, who had wasted his Estate with harlots, who notwithanding he had manifected his love in Christ to me; I say had given me this portion, I spent it all, sinned against this his mercy, my
+<pb n="40" facs="tcp:199117:30"/> eldest brother did question whether my Father had dealt justly in that he (not<g ref="char:EOLhyphen"/>withstanding all this my wickedness) rather then I should be <hi>lost,</hi> that he might receive me <hi>safe and sound,</hi> doth not spare, <hi>but kill his fatted calf,</hi> mani<g ref="char:EOLhyphen"/>fest to me (vile wretch) such a piece of love, as he never discovered to his eldest son, who had alwaies been with him; kept close to all his commands and or<g ref="char:EOLhyphen"/>dinances: whether the reason why they rather concluded (or at lest some of them) I had <hi>sinned</hi> the sin against the <hi>Holy Ghost,</hi> and so 'twas not possible for me to be recovered by and into the love of God; and so did not believe what I said, but at present refused both it and me; and not only so, but that (as ever I heard) they never so much as inquired after me since, though I have been shut up in prison and could not go to them: whether (I say) it did not flow from my eldest Brother murmur<g ref="char:EOLhyphen"/>ing. I leave to them whom it concerns to judge; waiting and longing to re-in<g ref="char:EOLhyphen"/>joy likewise that mercy, as to have a<g ref="char:EOLhyphen"/>gain fellowship and communion with the Saints; knowing it to be the place; (<hi>where two or three are gathered together in his name,</hi>
+               <note place="margin">Mat. 18.19</note> that he will be in, and that
+<pb n="41" facs="tcp:199117:30"/>
+               <hi>in the midst of them:</hi> and likewise finding by sad experience,<note place="margin">Heb. 10.24</note> that so backward and drousie is man, as he had not need let any thing be wanting that may <hi>pro<g ref="char:EOLhyphen"/>voke him to love and good works,</hi> it being likewise that which as God commands it, so he takes special notice of his people that observe so to do; as we may find <hi>Mal.</hi> 3.16. <hi>Then they that fear the Lord</hi> speak often one to another: and the Lord harkned and heard it, and a book of remembrance was written be<g ref="char:EOLhyphen"/>fore him, for them that feared the Lord, and thought upon his name. And they shall be mine, saith the Lord of hosts, in that day when I gather up my jewels; and I will spare them, as a man spareth his only son that serveth him. What? doth the Lord take notice of poor wret<g ref="char:EOLhyphen"/>ched man <hi>that fears him,</hi> that is tender of every command of his; though he but stammer before him, because he knows 'tis his pleasure, <hi>Yea, he will be sought unto?</hi> I the Lord take great no<g ref="char:EOLhyphen"/>tice, <hi>he harkned and heard it,</hi> and not only so, but a book of remembrance was written before him: such is the in<g ref="char:EOLhyphen"/>finite love of God towards his poor de<g ref="char:EOLhyphen"/>spised people, that though the world frown upon them, and not think them
+<pb n="42" facs="tcp:199117:31"/> worthy their taking notice of, yet the Lord he takes such notice of them, as that they cannot <hi>meet together,</hi> but he will cau<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e <hi>a Book of Remembrance to be write,</hi> and that <hi>before him;</hi> that so he might be sure not to go or do any thing, but that he might behold them, that they might be his choice ones <hi>at that day when he gathers up his jewels.</hi>
+            </p>
+            <p>Doth God take such care for his poor people, that when he brings forth and gathers together his rich choice mercies out of his treasury, gathers together his <hi>Jewels,</hi> as he would be sure none of his people should be wanting, or forgotten, but before him; that then he might <hi>gather up them amongst his Jewels, be as careful and tender of them as a man of his s<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n, that serveth him?</hi>
+            </p>
+            <p>O! who would leave such a God, such a Father, for the vanities of this World, which to day is, and to mor<g ref="char:EOLhyphen"/>row is cast into the oven.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="43" facs="tcp:199117:31"/>
+            <head>A true Coppy of the Letter men<g ref="char:EOLhyphen"/>tioned in the Epistle which I sent to my Adversary.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Must confess, such hath been my incom<g ref="char:EOLhyphen"/>parable detestable wickedness towards you, as hath most justly kindled an un<g ref="char:EOLhyphen"/>quenchable fire of fury in your breast against me vile wretch, most justly causing me to feel the truth of that saying, <hi>Prov. 6.34. For jealousie is the rage of a man; there<g ref="char:EOLhyphen"/>fore he will not spare in the day of ven<g ref="char:EOLhyphen"/>geance:</hi> So I must needs say, most just is the Lord, in bringing to open view these by my hidden works of darkness. Sir, I must needs out of the shame and bitterness of my un<g ref="char:EOLhyphen"/>worthy heart confess, that that injury done by me to you is of so notorious a nature, as it is not in the least repairable by me; nay if I should leave Ages as your slave, and all that time do for you the worst of slavery, it would not be of weight sufficient to counterpoise with that unparalel'd injury done by me to you; how much less am I (who have not left me (except the meer mercy of some Cre<g ref="char:EOLhyphen"/>ditors) not the worth of a penny, nor wherewithal to get a penny) able in the least in that case to treat with you: B<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t being through mercy made to behold the
+<pb n="44" facs="tcp:199117:32"/> greatness of my iniquity against God, and injury done to you, as made astonished, a<g ref="char:EOLhyphen"/>shamed, and confounded in my self, at the beholding of the riches of the love of God, which <hi>Paul</hi> well said, <hi>passeth understand<g ref="char:EOLhyphen"/>ing,</hi> if it had not, I had ere this been consumed; and God himself gives the alone reason, saying, <hi>I am God and change not, therefore you sons of</hi> Jacob <hi>are not con<g ref="char:EOLhyphen"/>sumed;</hi> and knowing it my duty so far as it lies in my power to satisfie all wrongs by me done to or committed against any, to the utmost of my ability, therefore endeavouring (if possible) to be at peace with all men; I am imboldened to tender you the largest satisfaction, that either you or any else can out of my labours, above the maintaining of my poor Wife and Family, whom in the first place the laws both of God and nature teach me to provide for; And how much more in this case I am bound to have re<g ref="char:EOLhyphen"/>spect to my poor wife, who with you in this case (and that in an unspeakable manner) hath so deeply already suffered, I leave to you to judge. And Sir, I must humbly de<g ref="char:EOLhyphen"/>sire you to be pleased to consider, that your keeping me in Prison, doth not only make me <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ncapable of giving you the least satisfacti<g ref="char:EOLhyphen"/>on; and if I alone who merited it, did suffer, I should be so far from having a thought of
+<pb n="45" facs="tcp:199117:32"/> reaping any mercy from you, as I should ra<g ref="char:EOLhyphen"/>ther yield up my self a sacrifice, to be con<g ref="char:EOLhyphen"/>sumed on the altar, you will, by the fire of your fury most justy by me kindled: But O! when I behold other suffering for my abominations, it enforceth me to cry out, (as secretly to God) so to you now to look being an instrument in his hand scourging those for my iniquities who were not sha<g ref="char:EOLhyphen"/>rers in them with me) though not upon me, yet upon them, with an eye of compassion; and I beseech you lest the consideration that you destroy the just (in this case) with the unjust, (if you go on) stay your hand; O spare but them, and command what you will of me to the utmost extremity, I shall be willing not only to the utmost of what at present I am able; but for ever think the utmost I can do, too little, in recompence of your mercy in this particular towards my poor Wife and Family, much less to sa<g ref="char:EOLhyphen"/>tisfie that injury which in vilest nature I have done you. O Sir, I beseech you, con<g ref="char:EOLhyphen"/>sider God, who delights in shewing mercy; and doth afflict, not that he might utterly destroy, but that thereby he might make us the fitter to receive and prize his mercies; and how honourable a thing it is to be an imitator of so heavenly a pattern, in at last saving those by your mercy, who else are
+<pb n="46" facs="tcp:199117:33"/> likely to be destroyed by your fury. So (Sir) only giving you to understand, that herein I have written nothing but the plain truth and sincere desire of my heart, humbly de<g ref="char:EOLhyphen"/>siring you seriously to read it; and upon mature consideration, as between God and your own soul: and if you shall please to send me an answer, it will oblige him who is,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Unworthy to be your Slave,</hi> H. H.</signed>
+               <dateline>
+                  <hi>From my Captivity in the</hi> Fleet <date>Dec. <hi>12. 1650.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For Mr. <hi>Thomas Hams</hi> Living at Mrs. <hi>Morice</hi>'s in <hi>Swan-Alley Black-Friers.</hi> These.</p>
+            </postscript>
+         </div>
+         <div type="narrative">
+            <pb n="47" facs="tcp:199117:33"/>
+            <head>
+               <hi>View of part of the many</hi> Traiterous, Disloyal, <hi>and</hi> Turn-about Actions <hi>of</hi> H. H. <hi>Senior, sometimes Printer to</hi> Cromwel, <hi>to the</hi> Common<g ref="char:EOLhyphen"/>wealth, <hi>to the</hi> Anabaptist <hi>Congrega<g ref="char:EOLhyphen"/>tion, to</hi> Cromwel<hi>'s</hi> Army, Com<g ref="char:EOLhyphen"/>mittee of Safety, Rump-Parlia<g ref="char:EOLhyphen"/>ment, <hi>&amp;c.</hi>
+            </head>
+            <p>A Little before the <hi>Rebellion</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> He was brought to Town out of<note place="margin">His Fa<g ref="char:EOLhyphen"/>ther a Rope-maker in <hi>Maidston.</hi>
+               </note>
+               <hi>Kent,</hi> and serv'd <hi>Harrison</hi> (one <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the blessed King <hi>Charles</hi> the I's. <hi>Bloody <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>egicides</hi>) in the Capacity of <hi>Postillion,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hough very young) who preferr'd him to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r. <hi>John Lilbourn;</hi> who was much taken <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ith him, being so very tractable and fit <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r his purpose; that he put him out an <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pprentice to a<note place="margin">
+                  <hi>Symonds</hi> and <hi>Paine</hi> then Part<g ref="char:EOLhyphen"/>ners.</note>
+               <hi>Printer</hi> for his better <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ualification to serve the <hi>Cause,</hi> &amp;c. As <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>terwards it prov'd He did to all intents.</p>
+            <p>He run away from his Master, (a <hi>Prin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r</hi>)<note>1642.</note> and Listed himself in the <hi>Rebel-Army</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nder <hi>Essex,</hi> and fought fiercely with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>word and Musquet, (for he was not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>et mounted) at <hi>Edge-hill</hi> against King <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>harles</hi> the I. Then becoming free of four <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rades <hi>(viz.) Rebellion, Treason, Rapine</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd <hi>Murder,</hi> he got on Horse-back, and
+<pb n="48" facs="tcp:199117:34"/> advanced in a very towardly Progress so that, in</p>
+            <p>
+               <note>1648.</note> He commenc'd <hi>Leveller;</hi> but tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Trade soon failing, he made himself a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Independant,</hi> and became so considerabl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> among them; that <hi>Cromwel</hi> wanting<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Printer</hi> for the Horrid <hi>Remonstrance.</hi> (whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was the <hi>Prodromus</hi> of the blessed <hi>King Murder,</hi>) Out steps honest <hi>H. H.</hi> briskly saying, <hi>My Lord, I am a Printer:</hi> An<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon his Vigilance (not Dexterity) in tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> piece of Villany, he was made <hi>Printe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> to that <hi>Rebel-Army,</hi> in which Execrabl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Imployment and Title, he continu'<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Printing</hi> and <hi>Trooping</hi> several years. And</p>
+            <p>He Printed the Act, <hi>For prohibiting a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> person to be Proclaim'd King of</hi> England.</p>
+            <p>
+               <note>1649.</note>And another Act, <hi>For Abolishing t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Kingly Office,</hi> &amp;c.</p>
+            <p>This was the man that Printed the <hi>H<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Cry</hi> after King <hi>Charles</hi> the I. althoug<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it was Old <hi>White</hi>'s Copy; but his Ze<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for the Cause was so great, that he cou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ted it no sin to cheat his Brother Trayto<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <p>This year was a year of Remark i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> earnest to him, for now he alter'd h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Title, and became <hi>Printer to the Commo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>wealth of</hi> England, and Printed the <hi>I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>structions for the Sale of the Lands belong<g ref="char:EOLunhyphen"/>ing to the King, Queen, Prince</hi> and <hi>Bishop Deans and Chapters,</hi> &amp;c.</p>
+            <pb n="49" facs="tcp:199117:34"/>
+            <p>He was at <hi>Worcester</hi> Fight against the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ate King, and the next day after the Fight <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as seen in General <hi>Fleedwood</hi>'s Tent by Mr. <hi>B.</hi> a Book-binder now living in St. <hi>Bar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>holomew</hi>'s-<hi>Close</hi> near <hi>West-Smithfield.</hi>
+            </p>
+            <p>He Printed after <hi>Worcester</hi> Fight a Pro<g ref="char:EOLhyphen"/>clamation for the apprehending (as he was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>leased to call them) <hi>Charles Stewart, James Stewart,</hi> or any of the pretended Sons or Daughters of the blessed Martyr King <hi>Charles</hi> the I. wherein was a Thou<g ref="char:EOLhyphen"/>sand pounds reward offered.</p>
+            <p>In this year (the Flesh prevailing over the Spirit) he liv'd in <hi>Adultery</hi> with the Wife of <hi>Thomas Hams,</hi> a Taylors Wife in <hi>Blaok Friers;</hi> for which he was Su'd, Fined 260 <hi>l.</hi> and cast into the <hi>Fleet Prison,</hi> where he lay a considerable time; and then and there it was, that he writ this Book the <hi>Prodigal Return'd,</hi> being his Re<g ref="char:EOLhyphen"/>cantation for that crime, by which he procur'd his Re-admittance into the <hi>Ana<g ref="char:EOLhyphen"/>baptist Congregation;</hi> and of this conversion of our Saint, Mr. <hi>William Kiffin</hi> and Mr. <hi>Daniel King</hi> (both living) are Witnesses, as having each of them written an Epistle be<gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore it, printed for <hi>Giles Calvert, Anno Dom.</hi> 1651. By this <hi>Apostacy,</hi> and his hearty Pennance for that Crime, he became Printer to the <hi>Anabaptist Congregation;</hi> as appears by the many <hi>Schismatical Books,</hi> where it is said Printed by <hi>H. H.</hi> Printer
+<pb n="50" facs="tcp:199117:35"/> to the <hi>Anabaptist Congregation,</hi> in whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he continu'd several years.</p>
+            <p>
+               <note>1653.</note>He Printed <hi>The government of the Com<g ref="char:EOLunhyphen"/>monwealth,</hi> by <hi>Cromwell</hi> the Protector (as they call'd him) and in sundry year as the Pamphlets shew. He Printed,</p>
+            <p>The <hi>Ordinance of High Treason again<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Posterity of King</hi> Charles <hi>the</hi> I.</p>
+            <p>The <hi>Ordinance for disposing the Estate under Sequestration.</hi>
+            </p>
+            <p>At that time he was Printer to <hi>Oliv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> the Usurper, he became a zealous Prea<g ref="char:EOLhyphen"/>cher amongst the <hi>Anabaptists,</hi> where h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thump'd the Tub so furiously, that he wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> much Noted by the Heads of that Tribe as <hi>Patience, Kiffin, Ives, King,</hi> &amp;c. Tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he caus'd the Congregation to Deposite a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> very considerable sum of money, whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was no sooner paid into his hands; but he and his brother <hi>Ives</hi> shar'd the money, and left them to shift for a Teacher, fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> honest <hi>H. H.</hi> had now other Fish to fry.</p>
+            <p>He Printed the Act, <hi>For Establishing the High Court of Justice;</hi> and another for <hi>pro<g ref="char:EOLhyphen"/>hibiting any Correspondency with</hi> Charles Stuart.</p>
+            <p>He Printed the Act, <hi>For renouncing the pretended Title of</hi> Charles Stuart <hi>King of</hi> England.</p>
+            <p>He Printed the Act, <hi>For Discovery and Convicting Popish Recusants.</hi>
+            </p>
+            <p>He Printed the <hi>Armies Plea against the Restoration of the King.</hi>
+            </p>
+            <pb n="51" facs="tcp:199117:35"/>
+            <p>An Act, <hi>For the Security of the Usurper</hi> Cromwel.</p>
+            <p>The <hi>Humble Petition and Advice to</hi> Cromwel.</p>
+            <p>An Act, <hi>For the Sale of Lands and Estates in</hi> Ireland.</p>
+            <p>He Printed <hi>Barebone</hi>'s <hi>Petition against the<note>1659.</note> Royal Family.</hi> He was Printer to <hi>Richard</hi> the <hi>Usurper, Oliver</hi>'s Son; and at that time Printing pocket <hi>Bibles,</hi> he corrupted the Commandments, and made it, <hi>Thou shalt commit Adultery;</hi> remembring probably how delightfully he had liv'd With honest <hi>Thomas Ham</hi>'s the Taylor's Wife.</p>
+            <p>
+               <hi>Richard Cromwel</hi> being dismounted, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he <hi>Rump Parliament</hi> got to the Helm, he was then Printer to <hi>Them;</hi> and in the same year the <hi>Rump</hi> being routed by <hi>Lambert,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e became Printer to the <hi>Army</hi> again; then Printer to the <hi>Committee of Safety.</hi> And <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n the same year the <hi>Rump</hi> getting in again, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e became Printer to <hi>Them</hi> again: The man you may see has a Soul of no common Temper; He ever made it his business <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o be of the rising side, let what Card <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ould turn up Trump, he would still <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ollow the Suit, his heart and hand were <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lways so well furnish'd.</p>
+            <p>He was now arriv'd to have the ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>agement of the <hi>Press,</hi> and coming to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>—<hi>s Cot— l</hi>s he found a Pamphlet in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>indication of King <hi>Charles</hi> the II. (of
+<pb n="52" facs="tcp:199117:36"/> blessed memory;) which much enraged him against the said Printer, insomuch, that he would needs both carry away the mans Printing-Letter, and take him also into Custody, saying, <hi>What Print in Right of the King, sure we have had King enough already, carry him before Sir</hi> John Backstead (such another Villain as himself.)</p>
+            <p>
+               <note>1660.</note>The King being happily restor'd, he got to be Printer to <hi>His</hi> late <hi>Majesty;</hi> but fearing the <hi>Act of Indempnity</hi> was too weak for all his <hi>Treasons, Villanies, Tergiversations</hi> and <hi>Treacheries,</hi> he procur'd a particular <hi>Pardon,</hi> and then he became a kind of a <hi>Church of England-man,</hi> or a modest <hi>Pres<g ref="char:EOLhyphen"/>byterian,</hi> where he continued (when profit and interest offer'd) a Zealot till the year 1678.</p>
+            <p>When <hi>Oates</hi>'s <hi>Plot</hi> was brought upon the Stage, and flourish'd, then he be<g ref="char:EOLhyphen"/>came very Zealous in finding out <hi>Papists</hi> and <hi>Popish Books:</hi> In order to which, he went into the <hi>Kings-Printing-House</hi> in <hi>Black-Fryers;</hi> saying, <hi>Gentlemen, Is there an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Papists <hi>here? If there be, you must turn out for the</hi> Kings-Printing-House <hi>shall be<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> shelter for such Vermine:</hi> Nay, <hi>Or any th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are Popishly affected, they must also turn out▪</hi> Which soon took effect, for poor <hi>Simo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Chamberlain</hi> (being so) was soon turn'd out A little after this exploit, he instructed on<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of his Sons (a <hi>Glasier</hi> by Trade) to betra<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="53" facs="tcp:199117:36"/>
+               <hi>Turbeveil's Catechisms,</hi> the <hi>Manuel of De<g ref="char:EOLhyphen"/>votions,</hi> and other good <hi>Catholick Books,</hi> then in the hands of Mr. <hi>James Thompson</hi> in <hi>Eagle-Court</hi> in the <hi>Strand;</hi> which after<g ref="char:EOLhyphen"/>wards He and his Pupil <hi>Robin Hog,</hi> pro<g ref="char:EOLhyphen"/>cur'd to be burnt at the <hi>Royal Exchange,</hi> where he Triumph'd at that Exploit, as much as Sir <hi>William Waller</hi> did, when he burnt the <hi>Crucifixes</hi> in <hi>Palace-yard, West<g ref="char:EOLhyphen"/>minster.</hi>
+            </p>
+            <p>He Printed many of the <hi>Monstrous, Horrid,<note>1679.</note> Lying Narratives</hi> and <hi>Informations</hi> that then invaded the World; and also the <hi>Treasona<g ref="char:EOLhyphen"/>ble Votes,</hi> &amp;c. And amongst the rest, he Printed that pernicious and damnable <hi>Nar<g ref="char:EOLhyphen"/>rative</hi> for which <hi>Dangerfield</hi> was Disciplin'd; and himself and others Sued by an Ho<g ref="char:EOLhyphen"/>nourable Peer of the Realm, who obtain'd a large Verdict against him; which Ver<g ref="char:EOLhyphen"/>dict, he hoping to avod, (the good man) became (as he says) a <hi>Zealous Catholick;</hi> we do not hear our <hi>Zealous Convert</hi> has neither acknowledg'd his Crime to that Honourable Person, nor shewn any Sign of Submission: Nay, he had the Confi<g ref="char:EOLhyphen"/>dence to say, <hi>He never wrong'd his Lord<g ref="char:EOLhyphen"/>ship,</hi> or the Right Honourable Lady who hath also hath a Verdict against him for <hi>Scandalum Magnatum,</hi> &amp;c.</p>
+            <p>It is further to be observed, that in <hi>May</hi> 1684. when the <hi>Stationers</hi> had their new <hi>Charter</hi> from the King <hi>Charles</hi> II. of Glo<g ref="char:EOLhyphen"/>rious
+<pb n="54" facs="tcp:199117:37"/> Memory; this new <hi>Proselite</hi> most zealously took the Sa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ament in the <hi>Church</hi> of <hi>England,</hi> to qualify himself for <hi>Master</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f the said Company;) but being so well known amongst them, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is design was frustrated; as sometime he did before to Capa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>itate himself to be <hi>Warden</hi> thereof; which place (with the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ssistance of some, <hi>&amp;c.</hi>) he did compass.</p>
+            <p>This is the brief character of our spick and span new <hi>Convert,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hich shews him to have been in <hi>Religion</hi> a very <hi>Proteus</hi> or <hi>Wea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er-Cock;</hi> and to have run through more <hi>Opinions</hi> than ever <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he <hi>Wandering Jew</hi> is said to have done Countries.</p>
+            <p>A <hi>Convert</hi> nevertheless we may allow him to be, and to be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ieve him to be chang'd also from what he was, as he had often <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>een, and done before: But though he be thus become a <hi>Saint;</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he <hi>Kn —e</hi> is as Visible and Obvious as ever, and Honest <hi>H. H.</hi> is the same <hi>Envious, Plodding, Treacherous, Sycophant</hi> in his <hi>Looks, Words</hi> and <hi>Actions.</hi>
+            </p>
+            <p>
+               <hi>Query,</hi> If ever <hi>H. H.</hi> since his pretended <hi>Conversion</hi> hath ask'd the Pardon of any one person whom he has <hi>Libell'd</hi> or <hi>Defam'd?</hi> Or so much as acknowledged the wrong? (we speak not of sa<g ref="char:EOLhyphen"/>tisfaction for the same.) And also, whether he can be deemed any other than an <hi>Hypocrite</hi> or <hi>Dissembler,</hi> until he hath done this? <hi>God cannot be mocked,</hi> but the World and his <hi>Father-Confessor</hi> may.</p>
+            <p>To shew that according to the Title <hi>H. H.</hi> is the same as heretofore, and that he the said <hi>H. H.</hi> was ever for the Merce<g ref="char:EOLhyphen"/>nary interest part, Religion he still making use of upon all changes, only to serve that end; for he having <hi>Printed</hi> by Order the <hi>Papers found in the late Kings Closet,</hi> and a Bookseller having likewise got incouragement to <hi>Print</hi> the same, which being accordingly done; <hi>H. H.</hi> (still the same) sends one on purpose to Trepan not only the said <hi>Bookseller</hi> but <hi>Printer,</hi> and used all underhand means to ruin them: This, I hope, cannot be thought by any of the same Religion he now professes him<g ref="char:EOLhyphen"/>self to be of, done through a true zeal to that <hi>Persuasion.</hi>
+            </p>
+            <p>And to the end that none that take the pains to read this Book, may think these are falsities put upon the said <hi>H. H.</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hrough envy to his Greatness; the <hi>Publisher</hi> will prove to <hi>H. H</hi>'s. face the truth of each particular, if he hath the confi<g ref="char:EOLhyphen"/>dence to deny any of them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
